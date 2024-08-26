@@ -58,8 +58,8 @@ link-previewer
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/vite-react-nodejs.git
-   cd vite-react-nodejs
+   git clone https://github.com/gkhan205/link-previewer.git
+   cd link-previewer
    ```
 
 2. **Install dependencies for both frontend and backend:**
