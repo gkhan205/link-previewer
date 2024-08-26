@@ -42,7 +42,7 @@ This project demonstrates how to create a full-stack application using Vite.js, 
 Ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (v14 or later)
-- [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/), [Yarn](https://yarnpkg.com/) or [pnpm](https://pnpm.io/)
 
 ### Project Structure
 
